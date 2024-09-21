@@ -1,5 +1,5 @@
 a = input()
 b = input()
-c = input()
+c = a * b
 
-print(a, b)
+print(c)
